@@ -1,0 +1,15 @@
+app:
+    name: AtlasUserAPI
+    debug: 
+    passkey: 
+webserver:
+    hostname: localhost
+    port: 3000
+database: 
+    host:
+    port:
+    db:
+    user:
+    password:
+users:
+    test: test

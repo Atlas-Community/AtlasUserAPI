@@ -1,0 +1,25 @@
+{
+  "name": "atlas-user-api",
+  "version": "0.0.1",
+  "description": "API Rest pour faire des actions avec les utilisateurs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=production&& export NODE_ENV=production&& node app.js",
+    "dev": "set NODE_ENV=test&& export NODE_ENV=test&& node app.js"
+  },
+  "author": "Antt0n",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "config": "^3.3.1",
+    "crypto-js": "^4.0.0",
+    "ddos": "^0.2.1",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "https": "^1.0.0",
+    "js-yaml": "^3.13.1",
+    "mongoose": "^5.9.7",
+    "steamapi": "^2.0.7"
+  }
+}
