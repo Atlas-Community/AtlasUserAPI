@@ -1,5 +1,17 @@
 # AtlasUserAPI
 
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-DEPRECATED-critical.svg?style=for-the-badge" />
+  <img alt="Maintenance" src="https://img.shields.io/badge/maintained-no-critical.svg?style=for-the-badge" />
+</p>
+
+## Avertissement
+Je ne vous recommande pas d'utiliser cette API avec les versions actuelles du jeu.  
+L'API  REST  commence à se faire vieille, et les  plugins  ne sont absolument plus compatibles.  
+À utiliser en connaissance de cause.
+
+##
+
 AtlasUserAPI est une API pour les serveurs de jeux SCP:SL en JS.
 Voici les principales fonctionnalités:
 
